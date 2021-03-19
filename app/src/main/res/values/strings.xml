@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile System lab4</string>
+    <string name="textView"></string>
+    <string name="editText">text your message to send</string>
+    <string name="kill">kill</string>
+    <string name="send">send</string>
+    <string name="who_btn_text">who</string>
+    <string name="who_view_text">Online user list</string>
+    <string name="invite">invite</string>
+    <string name="register_btn_text">register</string>
+    <string name="unregister_btn_text">unregister</string>
+    <string name="usrName">not registered!</string>
+    <string name="registerText"> Type your usr name</string>
+</resources>

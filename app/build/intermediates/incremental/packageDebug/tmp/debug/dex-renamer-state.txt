@@ -1,0 +1,4 @@
+#Mon May 11 17:37:01 BST 2020
+base.0=/Users/gh/Desktop/U_y2s2/Mobile_System_Comp/MS_Lab/MS_lab4_andriod_messaging/task4-demo2-messagin/Messaging/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
